@@ -2,6 +2,8 @@
 
 Este repositório tem o objetivo de detalhar o desenvolvimento de um agente conversacional utilizando imagens como input.
 
+![Aplicação](https://github.com/MoisesArruda/image_to_speech/blob/main/images/Screenshot_1.png)
+
 # Instalação
 
 1. Clone o repositório:
