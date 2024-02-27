@@ -1,4 +1,4 @@
-# Chat conversacional com sua própria imagem.
+# Chat conversacional com sua imagem.
 
 Este repositório tem o objetio de detalhar o desenvolvimento de um agente conversacional utilizando imagens como input.
 
